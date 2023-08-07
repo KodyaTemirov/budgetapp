@@ -1,0 +1,16 @@
+.header {
+	background-color: rgb(0, 110, 255);
+	width: 100%;
+	padding: 8px;
+	box-sizing: border-box;
+}
+.logo {
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+}
+.logo:hover {
+	color: white;
+
+	opacity: 0.8;
+}
